@@ -10,7 +10,10 @@
 ### FILES
 
 - Karkavelraja J.jpg - Original Image
-- 
+- resized_image.jpg  - Resized Image
 
 -----
 
+### FEATURES
+
+- Resizing the Image
