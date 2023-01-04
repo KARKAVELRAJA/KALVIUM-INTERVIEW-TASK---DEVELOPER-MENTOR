@@ -11,6 +11,7 @@
 
 - Karkavelraja J.jpg - Original Image
 - resized_image.jpg  - Resized Image
+- Demo Recording.mp4 - Demo Video for code execution
 
 -----
 
